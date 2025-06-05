@@ -1,0 +1,21 @@
+Título: Introducción a la Inteligencia Artificial
+
+La Inteligencia Artificial (IA) es una rama de la informática que se enfoca en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen el reconocimiento de voz, visión por computadora, procesamiento del lenguaje natural, planificación, aprendizaje automático y más.
+
+Tipos de IA:
+1. IA Débil (Narrow AI): Diseñada para realizar una tarea específica, como asistentes virtuales o sistemas de recomendación.
+2. IA Fuerte (General AI): Teóricamente capaz de realizar cualquier tarea cognitiva humana. Aún no se ha desarrollado completamente.
+3. IA Superinteligente: Una forma hipotética de IA que supera la inteligencia humana en todos los aspectos.
+
+Aplicaciones comunes:
+- Asistentes virtuales como Siri, Alexa o ChatGPT.
+- Detección de fraudes bancarios.
+- Diagnóstico médico asistido por algoritmos.
+- Vehículos autónomos.
+- Traducción automática de idiomas.
+
+Riesgos y retos:
+Aunque la IA ofrece beneficios inmensos, también plantea desafíos como la ética en el uso de datos, la automatización del empleo, la seguridad y el control sobre sistemas autónomos. Es fundamental desarrollar sistemas responsables y transparentes.
+
+Conclusión:
+La inteligencia artificial está transformando múltiples sectores y promete seguir revolucionando la manera en que vivimos y trabajamos. Su evolución debe ir acompañada de una regulación adecuada y una reflexión ética constante.
